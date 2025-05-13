@@ -28,7 +28,7 @@ void names(); //names of both players
 void load_game();//function to load the game
 void load_list();
 void load_user();
-
+ 
 
 jmp_buf buf; //this is located at setjmp.h library and the longjump() transfers control the pointer which is pointed by setjump(). This means I can jump to a specific line when I want to.
 

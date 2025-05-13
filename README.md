@@ -43,8 +43,5 @@ gcc main.c -o connect_four
 
 ## 📬 Author
 
-**Luka Trunić**  
-Student ID: 2021230020  
-Faculty of Technical Sciences, Novi Sad  
-Course: Programming in C
+Luka Trunić
 
